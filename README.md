@@ -67,7 +67,12 @@ This analysis explores key e-commerce performance questions such as:
 
 ---
 
-## 📈 Charts
+## 📊 Charts & Visualizations
+
+![Sales Trend](charts/sales_trend.png)
+![Revenue by City](charts/revenue_by_city.png)
+![Revenue by City](charts/revenue_by_city.png)
+
 
 
 ## 🛠 Tools & Technologies
