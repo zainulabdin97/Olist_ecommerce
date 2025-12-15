@@ -69,9 +69,9 @@ This analysis explores key e-commerce performance questions such as:
 
 ## 📊 Charts & Visualizations
 
-![Sales Trend](charts/sales_trend.png)
-![Revenue by City](charts/revenue_by_city.png)
-![Revenue by City](charts/revenue_by_city.png)
+![Average Payment Value](charts/Average_payment_value.png)
+![Late vs Ontime delivery](charts/late_vs_on_time_deliveries.png)
+![Price and Delivery relationship](charts/price_and_deliveries.png)
 
 
 
